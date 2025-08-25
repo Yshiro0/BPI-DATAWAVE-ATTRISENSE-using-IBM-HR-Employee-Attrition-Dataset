@@ -1,5 +1,5 @@
 # BPI-DATAWAVE-ATTRISENSE-using-IBM-HR-Employee-Attrition-Dataset 
-AttriSense is an HR analytics tool that predicts employee attrition, visualizes key insights, and provides data-driven solutions to help organizations improve retention and workforce satisfaction.
+AttriSense is an HR analytics tool that predicts employee attrition, visualizes key insights, and provides data-driven solutions to help organizations improve retention and workforce satisfaction. (Made by team The Owlgorithms)
 ## Quick Start
 
 ### 1) Prerequisites
